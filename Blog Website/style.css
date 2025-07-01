@@ -1,0 +1,25 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+body{
+    height:100%;
+    width:100%;
+}
+.container{
+    max-width: 95vw;
+    padding: 2rem 1rem;
+    margin: 0 auto;
+    /* background-color: rgb(40, 148, 175) */
+}
+/* .header_desc,.header_title{
+    display:flex;
+    justify-content:center;
+    align-items:center;
+    margin:5px;
+} */
+ .imu{
+    margin:10px;
+    padding-left: 10px;
+ }
