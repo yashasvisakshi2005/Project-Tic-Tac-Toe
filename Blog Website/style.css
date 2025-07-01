@@ -19,7 +19,10 @@ body{
     align-items:center;
     margin:5px;
 } */
- .imu{
-    margin:10px;
+ .card_container{
+    margin-left:10px;
     padding-left: 10px;
+ }
+ a{
+    text-decoration: none;
  }
